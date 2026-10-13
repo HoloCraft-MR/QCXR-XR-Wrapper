@@ -591,8 +591,8 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1276876735}
-  - {fileID: 1622577733}
   - {fileID: 899875484}
+  - {fileID: 1622577733}
   - {fileID: 2079810819}
   m_Father: {fileID: 790450251}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -637,7 +637,7 @@ MonoBehaviour:
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
+  m_ChildControlHeight: 1
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
@@ -19637,185 +19637,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "====================================================================================\n\nEND
-    USER LICENSE AGREEMENT\n\nLast updated August 05, 2024\n\nQuestCraft is licensed
-    to You (End-User) by Digital Genesis LLC, located and registered at 5830 E 2nd
-    St, Ste 7000 #6355, support@digital-genesis.org, Casper, Wyoming 82609, United
-    States (\"Licensor\"), for use only under the terms of this License Agreement.\n\nBy
-    downloading the Licensed Application from SideQuest, the Meta Horizon Store,
-    and/or any other platform or service, and any update thereto (as permitted by
-    this License Agreement), You indicate that You agree to be bound by all of the
-    terms and conditions of this License Agreement, and that You accept this License
-    Agreement. referred to in this License Agreement as \"Services.\"\n\nThe parties
-    of this License Agreement acknowledge that the Services are not a Party to this
-    License Agreement and are not bound by any provisions or obligations with regard
-    to the Licensed Application, such as warranty, liability, maintenance and support
-    thereof. Digital Genesis LLC, not the Services, is solely responsible for the
-    Licensed Application and the content thereof.\n\nThis License Agreement may not
-    provide for usage rules for the Licensed Application that are in conflict with
-    the latest (\"Usage Rules\"). Digital Genesis LLC acknowledges that it had the
-    opportunity to review the Usage Rules and this License Agreement is not conflicting
-    with them.\n\nQuestCraft when purchased or downloaded through the Services, is
-    licensed to You for use only under the terms of this License Agreement. The Licensor
-    reserves all rights not expressly granted to You. QuestCraft is to be used on
-    devices that operate with Meta Horizon OS or Android 11 where applicable.\n\n\nTABLE
-    OF CONTENTS\n\n1. THE APPLICATION\n2. SCOPE OF LICENSE\n3. TECHNICAL REQUIREMENTS\n4.
-    MAINTENANCE AND SUPPORT\n5. USER-GENERATED CONTRIBUTIONS\n6. CONTRIBUTION LICENSE\n7.
-    LIABILITY\n8. WARRANTY\n9. PRODUCT CLAIMS\n10. LEGAL COMPLIANCE\n11. CONTACT
-    INFORMATION\n12. TERMINATION\n13. THIRD-PARTY TERMS OF AGREEMENTS AND BENEFICIARY\n14.
-    INTELLECTUAL PROPERTY RIGHTS\n15. APPLICABLE LAW\n16. MISCELLANEOUS\n\n\n1. THE
-    APPLICATION\n\nQuestCraft (\"Licensed Application\") is a piece of software created
-    to assist in playing Minecraft: Java Edition in virtual reality with the assistance
-    of Vivecraft (Mixin) Mod \u2014 and customized for mobile devices (\"Devices\").
-    It is used to allow users to UNOFFICIALLY and natively play Minecraft: Java Edition
-    using standalone virtual reality headsets.\n\nThe Licensed Application is not
-    tailored to comply with industry-specific regulations (Health Insurance Portability
-    and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA),
-    etc.), so if your interactions would be subjected to such laws, you may not use
-    this Licensed Application. You may not use the Licensed Application in a way
-    that would violate the Gramm-Leach-Bliley Act (GLBA).\n\n\n2. SCOPE OF LICENSE\n\n2.1
-    This license will also govern any updates of the Licensed Application provided
-    by Licensor that replace, repair, and/or supplement the first Licensed Application,
-    unless a separate license is provided for such update, in which case the terms
-    of that new license will govern.\n\n2.2  Licensor reserves the right to modify
-    the terms and conditions of licensing.\n\n2.3  Nothing in this license should
-    be interpreted to restrict third-party terms. When using the Licensed Application,
-    You must ensure that You comply with applicable third-party terms and conditions.\n\n\n3.
-    TECHNICAL REQUIREMENTS\n\n3.1  The Licensed Application requires a firmware version
-    v68 of Meta Horizon OS or Android 11 where applicable or higher. Licensor recommends
-    using the latest version of the firmware.\n\n3.2  Licensor attempts to keep the
-    Licensed Application updated so that it complies with modified/new versions of
-    the firmware and new hardware. You are not granted rights to claim such an update.\n\n3.3
-    You acknowledge that it is Your responsibility to confirm and determine that
-    the app end-user device on which You intend to use the Licensed Application satisfies
-    the technical specifications mentioned above.\n\n3.4  Licensor reserves the right
-    to modify the technical specifications as it sees appropriate at any time and
-    without prior notice.\n\n\n4. MAINTENANCE AND SUPPORT\n\n4.1  The Licensor is
-    solely responsible for providing any maintenance and support services for this
-    Licensed Application. You can reach the Licensor at the email address listed
-    in the Overview for this Licensed Application.\n\n4.2  Digital Genesis LLC and
-    the End-User acknowledge that the Services have no obligation whatsoever to furnish
-    any maintenance and support services with respect to the Licensed Application.\n\n\n5.
-    USER-GENERATED CONTRIBUTIONS\n\nThe Licensed Application does not offer users
-    to submit or post content. We may provide you with the opportunity to create,
-    submit, post, display, transmit, perform, publish, distribute, or broadcast content
-    and materials to us or in the Licensed Application, including but not limited
-    to text, writings, video, audio, photographs, graphics, comments, suggestions,
-    or personal information or other material (collectively, \"Contributions\").
-    Contributions may be viewable by other users of the Licensed Application and
-    through third-party websites or applications. As such, any Contributions you
-    transmit may be treated in accordance with the Licensed Application Privacy Policy.
-    When you create or make available any Contributions, you thereby represent and
-    warrant that:\n\n1. The creation, distribution, transmission, public display,
-    or performance, and the accessing, downloading, or copying of your Contributions
-    do not and will not infringe the proprietary rights, including but not limited
-    to the copyright, patent, trademark, trade secret, or moral rights of any third
-    party.\n2. You are the creator and owner of or have the necessary licenses, rights,
-    consents, releases, and permissions to use and to authorize us, the Licensed
-    Application, and other users of the Licensed Application to use your Contributions
-    in any manner contemplated by the Licensed Application and this License Agreement.\n3.
-    You have the written consent, release, and/or permission of each and every identifiable
-    individual person in your Contributions to use the name or likeness or each and
-    every such identifiable individual person to enable inclusion and use of your
-    Contributions in any manner contemplated by the Licensed Application and this
-    License Agreement.\n4. Your Contributions are not false, inaccurate, or misleading.\n5.
-    Your Contributions are not unsolicited or unauthorized advertising, promotional
-    materials, pyramid schemes, chain letters, spam, mass mailings, or other forms
-    of solicitation.\n6. Your Contributions are not obscene, lewd, lascivious, filthy,
-    violent, harassing, libelous, slanderous, or otherwise objectionable (as determined
-    by us).\n7. Your Contributions do not ridicule, mock, disparage, intimidate,
-    or abuse anyone.\n8. Your Contributions are not used to harass or threaten (in
-    the legal sense of those terms) any other person and to promote violence against
-    a specific person or class of people.\n9. Your Contributions do not violate any
-    applicable law, regulation, or rule.\n10. Your Contributions do not violate the
-    privacy or publicity rights of any third party.\n11. Your Contributions do not
-    violate any applicable law concerning child pornography, or otherwise intended
-    to protect the health or well-being of minors.\n12. Your Contributions do not
-    include any offensive comments that are connected to race, national origin, gender,
-    sexual preference, or physical handicap.\n13. Your Contributions do not otherwise
-    violate, or link to material that violates, any provision of this License Agreement,
-    or any applicable law or regulation.\n\nAny use of the Licensed Application in
-    violation of the foregoing violates this License Agreement and may result in,
-    among other things, termination or suspension of your rights to use the Licensed
-    Application.\n\n\n6. CONTRIBUTION LICENSE\n\nYou agree that we may access, store,
-    process, and use any information and personal data that you provide following
-    the terms of the Privacy Policy and your choices (including settings).\n\nBy
-    submitting suggestions of other feedback regarding the Licensed Application,
-    you agree that we can use and share such feedback for any purpose without compensation
-    to you.\n\nWe do not assert any ownership over your Contributions. You retain
-    full ownership of all of your Contributions and any intellectual property rights
-    or other proprietary rights associated with your Contributions. We are not liable
-    for any statements or representations in your Contributions provided by you in
-    any area in the Licensed Application. You are solely responsible for your Contributions
-    to the Licensed Application and you expressly agree to exonerate us from any
-    and all responsibility and to refrain from any legal action against us regarding
-    your Contributions.\n\n\n7. LIABILITY\n\n7.1  Licensor's responsibility in the
-    case of violation of obligations and tort shall be limited to intent and gross
-    negligence. Only in case of a breach of essential contractual duties (cardinal
-    obligations), Licensor shall also be liable in case of slight negligence. In
-    any case, liability shall be limited to the foreseeable, contractually typical
-    damages. The limitation mentioned above does not apply to injuries to life, limb,
-    or health.\n\n7.2  Licensor takes no accountability or responsibility for any
-    damages caused due to a breach of duties according to Section 2 of this License
-    Agreement. To avoid data loss, You are required to make use of backup functions
-    of the Licensed Application to the extent allowed by applicable third-party terms
-    and conditions of use. You are aware that in case of alterations or manipulations
-    of the Licensed Application, You will not have access to the Licensed Application.\n\n\n8.
-    LIMITED WARRANTY\n\nYou are aware and agree that use of the Service and the media
-    on which it is recorded is at your sole risk.\n\nOTHER THAN EXPRESSLY SET FORTH
-    IN THIS AGREEMENT, THE SERVICE IS PROVIDED \u201CAS IS,\u201D WITHOUT WARRANTY
-    OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED
-    WARRANTIES OF CONDITION, UNINTERRUPTED USE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
-    PURPOSE, OR NONINFRINGEMENT. NO ORAL OR WRITTEN ADVICE OR INFORMATION GIVEN BY
-    Digital Genesis LLC OR ANY OF ITS AUTHORIZED REPRESENTATIVES SHALL CREATE A WARRANTY
-    OR IN ANY WAY INCREASE THE SCOPE OF THIS LIMITED WARRANTY.\n\nSome states and
-    jurisdictions do not allow the exclusion of, or limitations on, limited or implied
-    warranties, and in such states and jurisdictions, Digital Genesis\u2019s and
-    its licensors\u2019 liability shall be limited to the maximum extent permitted
-    by law. You may have other rights that vary from state-to-state or from jurisdiction-to-jurisdiction.
-    Under no circumstances shall any implied warranty required by law exceed the
-    90-day period of the Limited Warranty above.\n\n\n9. PRODUCT CLAIMS\n\nDigital
-    Genesis LLC and the End-User acknowledge that Digital Genesis LLC, and not the
-    Services, is responsible for addressing any claims of the End-User or any third
-    party relating to the Licensed Application or the End-User\u2019s possession
-    and/or use of that Licensed Application, including, but not limited to:\n\n(i)
-    product liability claims;\n   \n(ii) any claim that the Licensed Application
-    fails to conform to any applicable legal or regulatory requirement; and\n\n(iii)
-    claims arising under consumer protection, privacy, or similar legislation.\n\n\n10.
-    LEGAL COMPLIANCE\n\nYou represent and warrant that You are not located in a country
-    that is subject to a US Government embargo, or that has been designated by the
-    US Government as a \"terrorist supporting\" country; and that You are not listed
-    on any US Government list of prohibited or restricted parties.\n\n\n11. CONTACT
-    INFORMATION\n\nFor general inquiries, complaints, questions or claims concerning
-    the Licensed Application, please contact:\n       \nDigital Genesis LLC\n5830
-    E 2nd St, Ste 7000 #6355\nsupport@digital-genesis.org\nCasper, WY 82609\nUnited
-    States\nsupport@digital-genesis.org\n\n\n12. TERMINATION\n\nThe license is valid
-    until terminated by Digital Genesis LLC or by You. Your rights under this license
-    will terminate automatically and without notice from Digital Genesis LLC if You
-    fail to adhere to any term(s) of this license. Upon License termination, You
-    shall stop all use of the Licensed Application, and destroy all copies, full
-    or partial, of the Licensed Application.\n      \n\n13. THIRD-PARTY TERMS OF
-    AGREEMENTS AND BENEFICIARY\n\nDigital Genesis LLC represents and warrants that
-    Digital Genesis LLC will comply with applicable third-party terms of agreement
-    when using Licensed Application.\n\nIn Accordance with Section 9 of the \"Instructions
-    for Minimum Terms of Developer's End-User License Agreement,\" subsidiaries shall
-    be third-party beneficiaries of this End User License Agreement and \u2014 upon
-    Your acceptance of the terms and conditions of this License Agreement, will have
-    the right (and will be deemed to have accepted the right) to enforce this End
-    User License Agreement against You as a third-party beneficiary thereof.\n\n\n14.
-    INTELLECTUAL PROPERTY RIGHTS\n\nDigital Genesis LLC and the End-User acknowledge
-    that, in the event of any third-party claim that the Licensed Application or
-    the End-User's possession and use of that Licensed Application infringes on the
-    third party's intellectual property rights, Digital Genesis LLC, and not the
-    Services, will be solely responsible for the investigation, defense, settlement,
-    and discharge or any such intellectual property infringement claims.\n\n\n15.
-    APPLICABLE LAW\n\nThis License Agreement is governed by the laws of the State
-    of Texas excluding its conflicts of law rules.\n\n\n16. MISCELLANEOUS\n\n16.1
-    If any of the terms of this agreement should be or become invalid, the validity
-    of the remaining provisions shall not be affected. Invalid terms will be replaced
-    by valid ones formulated in a way that will achieve the primary purpose.\n \n16.2
-    Collateral agreements, changes and amendments are only valid if laid down in
-    writing. The preceding clause can only be waived in writing.\n\n====================================================================================\n"
+  m_text: "HoloCraft\n\nHoloCraft is an unofficial, free, open-source way to play Minecraft: Java Edition on Quest. It is not affiliated with or endorsed by Mojang, Microsoft, Meta, QuestCraft or Digital Genesis.\n\nYou need your own Minecraft: Java Edition account to play. Use of Minecraft is subject to the Minecraft EULA: https://www.minecraft.net/eula\n\nHoloCraft is provided as-is, with no warranty. Use it at your own risk.\n\nIt's built on QuestCraft, PojavLauncher, Visor and AtumVR, under the LGPLv3 and Apache 2.0 licenses. The source is on GitHub."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -29124,19 +28946,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Welcome to HoloCraft!
-
-    Before you can jump into the main experiance,
-    we must go over some information with you, including our EULA and Privacy Policy.
-
-
-    First
-    and foremost, we must state that QuestCraft, QCXR, Digital Genesis, and any of
-    the mods included within QuestCraft are NOT an official Minecraft product or
-    service. We are not approved by or associated with Mojang or Microsoft, and any
-    issues reguarding or related to QuestCraft are to be reported ONLY to QuestCraft
-    staff and support, including issues related to mods, servers, and third-party
-    libraries.'
+  m_text: "Welcome to HoloCraft!\n\nPlease read the following before you start."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -36508,17 +36318,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '
-
-    Copyright Notice
-
-    QuestCraft utilizes many third-party Minecraft
-    modifications, as well as open-source libraries in order to create a functional
-    and smooth experiance for our players, these can be viewed on our GitHub (https://github.com/QuestCraftPlusPlus/)
-    or on the QuestCraft website at https://questcraft.org/open-source/.
-
-
-'
+  m_text: "Privacy\n\nHoloCraft doesn't collect any data. Signing in is handled by Microsoft."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,
@@ -51389,9 +51189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: By clicking continue, you hereby agree that you have read, understand,
-    and agree to the terms and conditions as well as the copyright information provided
-    above.
+  m_text: "By continuing, you agree to the terms above."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f35adae8958437040b0fbd16e87d120a, type: 2}
   m_sharedMaterial: {fileID: -3046671735200912922, guid: f35adae8958437040b0fbd16e87d120a,

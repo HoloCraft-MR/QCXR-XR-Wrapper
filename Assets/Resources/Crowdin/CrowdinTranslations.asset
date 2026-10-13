@@ -85,34 +85,15 @@ MonoBehaviour:
     translations: []
   - key: Legal Header
     exportedFromTable: Main
-    sourceString: 'Welcome to QuestCraft!
-
-      Before you can jump into the main
-      experiance, we must go over some information with you, including our EULA and
-      Privacy Policy.
-
-
-      First and foremost, we must state that QuestCraft,
-      QCXR, Digital Genesis, and any of the mods included within QuestCraft are NOT
-      an official Minecraft product or service. We are not approved by or associated
-      with Mojang or Microsoft, and any issues reguarding or related to QuestCraft
-      are to be reported ONLY to QuestCraft staff and support, including issues related
-      to mods, servers, and third-party libraries.'
+    sourceString: "Welcome to HoloCraft!\n\nPlease read the following before you start."
     translations: []
   - key: Copyright Notice
     exportedFromTable: Main
-    sourceString: 'Copyright Notice
-
-      QuestCraft utilizes many third-party Minecraft
-      modifications, as well as open-source libraries in order to create a functional
-      and smooth experiance for our players, these can be viewed on our GitHub (https://github.com/QuestCraftPlusPlus/)
-      or on the QuestCraft website at https://questcraft.org/open-source/.'
+    sourceString: "Privacy\n\nHoloCraft doesn't collect any data. Signing in is handled by Microsoft."
     translations: []
   - key: Agree Statement
     exportedFromTable: Main
-    sourceString: By clicking continue, you hereby agree that you have read, understand,
-      and agree to the terms and conditions as well as the copyright information
-      provided above.
+    sourceString: "By continuing, you agree to the terms above."
     translations: []
   - key: Continue
     exportedFromTable: Main
