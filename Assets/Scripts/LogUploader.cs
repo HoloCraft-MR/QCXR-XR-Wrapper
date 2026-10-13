@@ -53,11 +53,11 @@ public static class LogUploader
 
         string username = ui.loginHandler != null ? ui.loginHandler.selectedAccountUsername : null;
         bool loggedIn = !string.IsNullOrEmpty(username) && username != "Add Account";
-        string hookName = loggedIn ? username : "QuestCraft VISOR";
+        string hookName = loggedIn ? username : "HoloCraft";
         string avatarUrl = loggedIn ? "https://minotar.net/helm/" + username + "/100.png" : null;
 
         bool isCrash = !string.IsNullOrEmpty(reason);
-        string title = isCrash ? reason : "QuestCraft VISOR Logs";
+        string title = isCrash ? reason : "HoloCraft Logs";
         int color = isCrash ? 0xD70A53 : 0x57F287;
 
         var payload = new StringBuilder();
