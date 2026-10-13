@@ -13,7 +13,7 @@ public static class QuestCraftVisorBuild
     public static void BuildAndroid()
     {
         var outputDirectory = Path.GetFullPath(Path.Combine(UnityEngine.Application.dataPath, "..", "..", "..", "outputs"));
-        var outputPath = Path.Combine(outputDirectory, "QuestCraft-VISOR-1.20.1.apk");
+        var outputPath = Path.Combine(outputDirectory, "HoloCraft-1.20.1.apk");
         var scenes = EditorBuildSettings.scenes.Where(scene => scene.enabled).Select(scene => scene.path).ToArray();
         var useCustomKeystore = PlayerSettings.Android.useCustomKeystore;
         var applicationIdentifier = PlayerSettings.GetApplicationIdentifier(BuildTargetGroup.Android);
@@ -29,8 +29,8 @@ public static class QuestCraftVisorBuild
             }
 
             PlayerSettings.Android.useCustomKeystore = false;
-            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.qcxr.qcxr.visor");
-            PlayerSettings.productName = "QuestCraft VISOR";
+            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
+            PlayerSettings.productName = "HoloCraft";
             EnableHandTracking();
 
             var report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
