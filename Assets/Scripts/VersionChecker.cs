@@ -13,7 +13,7 @@ public class VersionChecker : MonoBehaviour
     public void Start()
     {
         currentVersion = Application.version;
-        version.text = currentVersion;
+        version.text = "HoloCraft " + currentVersion;
     }
 
     public void CheckVersion()
