@@ -29,7 +29,7 @@ public static class QuestCraftVisorBuild
             }
 
             PlayerSettings.Android.useCustomKeystore = false;
-            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.qcxr.qcxr.visor");
+            PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
             PlayerSettings.productName = "HoloCraft";
             EnableHandTracking();
 
