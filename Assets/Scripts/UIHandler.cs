@@ -240,6 +240,12 @@ public class UIHandler : MonoBehaviour
         {
             ShowError(errorMessage);
         }
+
+        // the terms may fit without scrolling, so no scroll event ever unlocks Continue
+        if (legalContent != null && legalContent.activeInHierarchy && !legalContinue.interactable)
+        {
+            UpdateLegalButton();
+        }
         string time = DateTime.Now.ToString("hh:mm tt");
         minuteHourText.text = time;
         UILoginCheck();
