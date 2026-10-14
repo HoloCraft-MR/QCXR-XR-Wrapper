@@ -18,6 +18,8 @@ public static class QuestCraftVisorBuild
         var useCustomKeystore = PlayerSettings.Android.useCustomKeystore;
         var applicationIdentifier = PlayerSettings.GetApplicationIdentifier(BuildTargetGroup.Android);
         var productName = PlayerSettings.productName;
+        var bundleVersion = PlayerSettings.bundleVersion;
+        var version = GetVersionArg();
 
         Directory.CreateDirectory(outputDirectory);
 
@@ -31,6 +33,10 @@ public static class QuestCraftVisorBuild
             PlayerSettings.Android.useCustomKeystore = false;
             PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, "com.holocraft.app");
             PlayerSettings.productName = "HoloCraft";
+            if (!string.IsNullOrEmpty(version))
+            {
+                PlayerSettings.bundleVersion = version;
+            }
             EnableHandTracking();
 
             var report = BuildPipeline.BuildPlayer(new BuildPlayerOptions
@@ -51,7 +57,17 @@ public static class QuestCraftVisorBuild
             PlayerSettings.Android.useCustomKeystore = useCustomKeystore;
             PlayerSettings.SetApplicationIdentifier(BuildTargetGroup.Android, applicationIdentifier);
             PlayerSettings.productName = productName;
+            PlayerSettings.bundleVersion = bundleVersion;
         }
+    }
+
+    // -holocraftVersion <v> on the command line, or HOLOCRAFT_VERSION in the env
+    private static string GetVersionArg()
+    {
+        var args = Environment.GetCommandLineArgs();
+        var i = Array.IndexOf(args, "-holocraftVersion");
+        var version = i >= 0 && i + 1 < args.Length ? args[i + 1] : Environment.GetEnvironmentVariable("HOLOCRAFT_VERSION");
+        return string.IsNullOrWhiteSpace(version) ? null : version.Trim().TrimStart('v');
     }
 
     private static void EnableHandTracking()
